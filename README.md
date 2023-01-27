@@ -1,6 +1,8 @@
 # Clean Architecture
 
-Exemplo: https://github.com/nglauber/books_jetpack
+Exemplo: https://github.com/nglauber/books_jetpack <br>
+![image](https://user-images.githubusercontent.com/53324891/215196265-8c26b2c0-0497-433f-8f56-94fc0e497eec.png)
+
 
 Resume-se em 3 camadas:<br>
 ### Data
@@ -14,3 +16,5 @@ Onde fica a UI. Se usarmos MVVM + Clean Architecture, a camada presenter seria a
 <br>
 <br>
 Juntando as camadas de MVVM com a Clean, temos: {View + Viewmodel}(presenter) + (domain) + (data)<br>
+
+![image](https://user-images.githubusercontent.com/53324891/215196827-508d01f3-7aac-49b7-ba3a-ddfb249eeae7.png)
